@@ -1,0 +1,13 @@
+💧 Final Water Source Status:
+Name: Tank
+Area: rampur
+Population: 200
+Capacity: 231L
+Initial Capacity: 1000L
+--------------------------
+Name: River
+Area: Mirchaya
+Population: 400
+Capacity: 122L
+Initial Capacity: 2000L
+--------------------------
